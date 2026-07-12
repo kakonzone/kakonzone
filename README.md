@@ -131,20 +131,6 @@ Relays a single stream to multiple platforms simultaneously with low-latency del
 </table>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kakonzone&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kakonzone&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakonzone&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
