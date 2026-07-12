@@ -40,7 +40,6 @@ Building scalable Flutter applications with real-time tracking, live streaming, 
 - 🤖 Machine Learning enthusiast, exploring AI-driven mobile experiences
 - 🎓 B.Sc. in Computer Science & Engineering
 - 🌱 Currently deepening skills in Clean Architecture, State Management, and Applied ML
-- 📍 Based in Bangladesh
 - 💼 Open to Flutter Developer opportunities — Remote / Bangladesh
 
 ---
