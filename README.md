@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kakonzone/kakonzone/main/banner.jpeg" width="100%" alt="Kamrul Hasan Banner">
+  <img src="https://raw.githubusercontent.com/kakonzone/kakonzone/main/banner.jpeg" width="100%" alt="">
 </p>
 <p align="center">
   <img src="banner.png" width="100%" alt="Kamrul Hasan Banner"/>
@@ -76,25 +76,90 @@ Passionate about building scalable Flutter applications with real-time tracking,
 
 ---
 
-# 📂 Featured Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🎓 UniTrack
-Real-time university transportation tracking system with live GPS monitoring.
+**University Live Tracking System**
 
-### 🛒 My Business App
-A complete Flutter e-commerce application with authentication, product management, cart, orders, and payment integration.
+📍 Real-time GPS Tracking  
+🚌 Driver & Student Monitoring  
+🔔 Live Trip Updates  
+
+**Tech:** Flutter • Firebase • Google Maps
+
+</td>
+<td width="50%">
 
 ### 📺 Lumio
-Sports TV application supporting M3U8 live streaming and online TV channels.
+**IPTV Streaming App**
+
+📡 M3U8 Streaming  
+📺 Live TV Channels  
+⚡ Cloudflare Workers KV Backend  
+
+**Tech:** Flutter • Cloudflare
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📰 Fact Check BD
-A news platform focused on fact-checking and verified information.
+**News Aggregation & Fact Verification**
 
-### 📈 Cryptic Riddles
-Crypto analysis platform providing market sentiment, macro-economic insights, and trend monitoring.
+📰 Latest News Aggregation  
+✔️ GDELT Integration  
+🔍 Fact Checking  
 
-### 📡 Live Streaming
-Flutter-based live streaming solution supporting M3U8 channels and Facebook Live streaming.
+**Tech:** Flutter • GDELT
+
+</td>
+<td width="50%">
+
+### 📈 Crypto Trading Dashboard
+**Real-time Market Analysis Tool**
+
+📊 Binance & CoinGlass API  
+📈 Technical Analysis  
+🖥️ Local Server Backend  
+
+**Tech:** Flutter • Dart Shelf
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔧 M3U8 Bulk Checker
+**Concurrent Stream Validation Tool**
+
+⚡ 5,000–10,000 Concurrent Goroutines  
+📡 Bulk M3U8 Link Checking  
+🖥️ CLI Tool  
+
+**Tech:** Go
+
+</td>
+<td width="50%">
+
+### 📡 RTMP Stream Relay
+**Simulcasting Solution**
+
+🎥 Multi-platform Live Streaming  
+📺 RTMP Relay  
+⚡ Low Latency Streaming  
+
+**Tech:** Flutter
+
+</td>
+</tr>
+</table>
 
 ---
 
