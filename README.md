@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kakonzone/kakonzone/main/banner.jpeg" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/kakonzone/kakonzone/main/banner.jpeg" width="100%" alt=""/>
 </p>
 
 <p align="center">
@@ -24,6 +24,9 @@ Building scalable Flutter applications with real-time tracking, live streaming, 
   <a href="https://linkedin.com/in/kakonzone">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://discord.com/users/kakonzone">
+    <img src="https://img.shields.io/badge/Discord-kakonzone-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
   <a href="mailto:kakonzone@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -37,7 +40,9 @@ Building scalable Flutter applications with real-time tracking, live streaming, 
 - 🤖 Machine Learning enthusiast, exploring AI-driven mobile experiences
 - 🎓 B.Sc. in Computer Science & Engineering
 - 🌱 Currently deepening skills in Clean Architecture, State Management, and Applied ML
+- 📍 Based in Bangladesh
 - 💼 Open to Flutter Developer opportunities — Remote / Bangladesh
+
 ---
 
 ### 🛠 Tech Stack
@@ -134,13 +139,15 @@ Relays a single stream to multiple platforms simultaneously with low-latency del
 <p align="center">
 <a href="https://github.com/kakonzone"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 <a href="https://linkedin.com/in/kakonzone"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+<a href="https://discord.com/users/kakonzone"><img src="https://skillicons.dev/icons?i=discord" width="45"/></a>
 <a href="mailto:kakonzone@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/></a>
 <a href="https://kakonzone.me"><img src="https://img.icons8.com/color/48/domain.png" width="45"/></a>
 </p>
 
 <p align="center">
 🌐 Portfolio: <a href="https://kakonzone.me">kakonzone.me</a> &nbsp;|&nbsp;
-📩 Email: kakonzone@gmail.com
+📩 Email: kakonzone@gmail.com &nbsp;|&nbsp;
+🎮 Discord: kakonzone
 </p>
 
 ---
