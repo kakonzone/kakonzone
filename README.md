@@ -66,7 +66,7 @@
 
 ## 🚀 Featured Projects
 
-<table width="100%" align = "center">
+<table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>🎓 UniTrack</h3>
