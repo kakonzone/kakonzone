@@ -1,17 +1,17 @@
- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/kakonzone/kakonzone/main/banner.png" width="100%" alt="Kamrul Hasan - Flutter Developer Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Kamrul+Hasan;Flutter+Developer;Machine+Learning+Enthusiast;Building+Real-Time+Mobile+Applications;Open+to+Flutter+Developer+Opportunities" alt="Kamrul Hasan - Flutter Developer and Machine Learning Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Kamrul+Hasan;Flutter+%26+Dart+Developer;Software+Engineer;Real-Time+Tracking+%26+Live+Streaming+Apps;Open+to+Flutter+Developer+Opportunities" alt="Kamrul Hasan - Flutter Developer and Software Engineer"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Kamrul Hasan</h1>
 
-<h3 align="center">Flutter Developer | Mobile App Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">Flutter Developer | Software Engineer | Mobile App Development</h3>
 
 <p align="center">
-  Building Flutter applications with real-time tracking, live streaming, API integrations, and data-driven features.
+  Building production-ready Flutter apps with real-time tracking, live streaming, REST API integrations, and data-driven features.
 </p>
 
 <p align="center">
@@ -36,28 +36,31 @@
 
 ## 🚀 About Me
 
-- 📱 Flutter Developer focused on cross-platform mobile applications.
-- ⚡ Interested in real-time tracking, live streaming, and API-driven applications.
-- 🤖 Exploring Python, Machine Learning, and AI-powered applications.
+- 📱 Software Engineer specializing in **Flutter & Dart** for cross-platform mobile applications.
+- ⚡ Focused on real-time tracking, live streaming, and API-driven apps using **REST APIs, Firebase, and Appwrite**.
+- 🧱 Solid fundamentals in **Python, C/C++, Data Structures & Algorithms, and DBMS**.
+- 🔄 Comfortable with **Agile and the SDLC**, and with state management using Riverpod.
+- 🤖 Exploring Machine Learning and AI-powered applications with Python.
 - 🎓 B.Sc. in Computer Science & Engineering.
-- 🌱 Improving my skills in Clean Architecture, state management, backend development, and applied Machine Learning.
-- 💼 Open to Flutter Developer opportunities in Bangladesh and remote positions.
+- 💼 **Open to Flutter Developer opportunities** in Bangladesh and remote positions.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,firebase,git,github,vscode,androidstudio" alt="Flutter, Dart, Python, Firebase, Git, GitHub, VS Code, and Android Studio"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,c,cpp,firebase,html,css,bootstrap,git,github,vscode,androidstudio" alt="Flutter, Dart, Python, C, C++, Firebase, HTML, CSS, Bootstrap, Git, GitHub, VS Code, and Android Studio"/>
 </p>
 
 | Category | Technologies |
 |---|---|
 | **Mobile Development** | Flutter, Dart, Riverpod |
-| **Backend & APIs** | Firebase, Appwrite, REST APIs, Dart Shelf, Cloudflare Workers |
+| **Backend & APIs** | REST APIs, Firebase, Appwrite, Dart Shelf, Cloudflare Workers |
+| **Programming Fundamentals** | Python, C/C++, DSA, DBMS |
+| **Web** | HTML/CSS, Bootstrap |
 | **Machine Learning & Data** | Python, Scikit-learn, Pandas, NumPy, Matplotlib |
-| **Tools & Platforms** | Git, GitHub, VS Code, Android Studio |
 | **Streaming & Networking** | M3U8, RTMP, HTTP APIs |
+| **Process & Tools** | Agile, SDLC, Git, GitHub, VS Code, Android Studio |
 
 ---
 
