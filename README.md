@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Kamrul Hasan</h1>
 
-<h3 align="center">Flutter Developer | Software Engineer | Mobile App Development</h3>
+<h3 align="center">Software Engineer | Flutter Developer | Mobile App Development</h3>
 
 <p align="center">
   Building production-ready Flutter apps with real-time tracking, live streaming, REST API integrations, and data-driven features.
