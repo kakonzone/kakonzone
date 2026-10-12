@@ -66,7 +66,7 @@
 
 ## 🚀 Featured Projects
 
-<table width="100%">
+<table width="100%" align = "center">
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>🎓 UniTrack</h3>
@@ -131,22 +131,7 @@
   </tr>
 </table>
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kakonzone&show_icons=true&hide_border=true&rank_icon=github" alt="Kamrul Hasan's GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakonzone&layout=compact&hide_border=true" alt="Most used programming languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kakonzone&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
----
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/kakonzone">
