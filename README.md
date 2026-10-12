@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kakonzone/kakonzone/main/banner.jpeg" width="100%" alt=""/>
+  <img src="https://raw.githubusercontent.com/kakonzone/kakonzone/main/banner.png" width="100%" alt=""/>
 </p>
 
 <p align="center">
